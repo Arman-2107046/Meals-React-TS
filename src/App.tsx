@@ -1,6 +1,10 @@
+import Meals from "./components/Meals"
+
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Meals/>
+    </div>
   )
 }
 
